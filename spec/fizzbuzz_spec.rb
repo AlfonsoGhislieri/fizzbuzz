@@ -16,7 +16,8 @@ describe 'fizzbuzz' do
     12 => "fizz",
     13 => 13,
     14 => 14,
-    15 => "fizzbuzz"
+    15 => "fizzbuzz",
+    16 => 16
   }
 
   test.each do |key, value|
